@@ -173,6 +173,7 @@ body{
 }
 .blog{
   width: min-content;
+  margin-bottom: 2em;
 }
 .blog-image{
   width: 374px;
