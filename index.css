@@ -224,7 +224,7 @@ body{
 @media (min-width:1085px) {
   .header{
     height: 83px;
-    padding: 0 2.65em;
+    padding: 1em 2.65em;
     font-size: 1.25rem;
   }
 
